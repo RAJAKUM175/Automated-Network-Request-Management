@@ -6,7 +6,7 @@ Platform
 
 Project Type
 . ITSM
-. Incident Management
+. Automated Network Request Management
 
 1. Project Objectives
 Automate Network Requests
